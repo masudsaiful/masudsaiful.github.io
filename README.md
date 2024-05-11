@@ -2,5 +2,9 @@
 
 **_E-mail: [saifulmasud@hotmail.com](mailto:saifulmasud@hotmail.com)_**
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}{github}}$$	
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 
