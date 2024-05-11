@@ -1,2 +1,2 @@
 # masudsaiful.github.io
-Tutorial Contents
+Technical Tutorial Contents
